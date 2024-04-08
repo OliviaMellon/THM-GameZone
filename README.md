@@ -1,4 +1,4 @@
-# Try Hack Me - Hack Park
+# Try Hack Me - Game Zone
 
 ![gamezone](gamezone.jpeg)
 
